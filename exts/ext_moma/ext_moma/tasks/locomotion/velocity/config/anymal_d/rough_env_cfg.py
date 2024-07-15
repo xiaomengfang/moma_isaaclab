@@ -1,4 +1,4 @@
-from ext_template.tasks.locomotion.velocity.velocity_env_cfg import LocomotionVelocityRoughEnvCfg
+from ext_moma.tasks.locomotion.velocity.velocity_env_cfg import LocomotionVelocityRoughEnvCfg
 
 from omni.isaac.lab.utils import configclass
 
